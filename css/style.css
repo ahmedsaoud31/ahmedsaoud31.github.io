@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0;}
+body {
+	text-align: center;
+	background-color: #DDD;
+}
+.logo {
+	margin: 100px auto 0 auto;
+	width: 400px;
+	height: 200px;
+	background-image: url(icons/Goo2Pro.png);
+}
+table{
+	margin: auto;
+	text-align: left;
+	font-size: 24px;
+}
+table td{
+	padding: 0 0 0 20px;
+}
+.gmail{ color: #D50709;}
+.skype{ color: #45BEE5;}
+.telephone{ color: #945923;}
+.viber{ color: #855BA5;}
+.whatsapp{ color: #2DBA1C;}
